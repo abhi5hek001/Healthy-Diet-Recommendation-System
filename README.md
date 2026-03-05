@@ -1,4 +1,4 @@
-# Healthcare Recommendation System
+# Healthy Diet Recommendation System
 
 A machine learning project that predicts personalized diet recommendations based on patient health indicators such as BMI, cholesterol levels, and other clinical attributes. The project demonstrates a complete data science workflow including data exploration, preprocessing, model training, and evaluation.
 
